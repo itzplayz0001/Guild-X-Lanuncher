@@ -1,0 +1,12 @@
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\bin\Debug\Guild X.exe.config
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\bin\Debug\Guild X.exe
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\bin\Debug\Guild X.pdb
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.csprojAssemblyReference.cache
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild_X.home.resources
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild_X.Properties.Resources.resources
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.csproj.GenerateResource.cache
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.csproj.CoreCompileInputs.cache
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.exe
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.pdb
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ItzPLAYZ\Desktop\programming\C-Sharp Win Forms - Projects\Guild X\obj\Debug\Guild X.csproj.ResolveComReference.cache
